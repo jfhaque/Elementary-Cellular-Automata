@@ -1,0 +1,18 @@
+Open terminal/cmd
+
+Navigate to the directory containing the file.
+
+Compiling: 
+javac CA.java 
+
+OR 
+
+javac *.java
+
+Running the program: 
+java CA n r 
+ where n is the number of iterations and r is the rule number
+ Choose a rule between 0 and 255. 
+
+Example: 
+java CA 20 250
